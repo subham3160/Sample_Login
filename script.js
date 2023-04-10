@@ -26,7 +26,7 @@ changeToLogin();
 function activeInput(event) {
     if (screen.width > 600) {
         let input = event;
-        input.style.border = '1px solid #4054D2';
+        input = '1px solid #4054D2';
     }
 }
 activeInput()
